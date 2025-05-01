@@ -17,7 +17,7 @@ To devise strategies to drive sales and revenue growth
 
 KEY OBSERVATIONS
 
-1) The food and beverage product item wew generated the most revenue especially in the Naypyitaw city and was mostly purchased by women at 7pm of the day while the health and beauty item were least sold generally but made highest sales in the Mandalay city with men mostly purchasing this item by 2pm
+1)The food and beverage product item were generated the most revenue especially in the Naypyitaw city and was mostly purchased by women at 7pm of the day while the health and beauty item were least sold generally but made highest sales in the Mandalay city with men mostly purchasing this item by 2pm
 
 2)Their customers were mostly women who made peak purchases around 1pm and 7pm of the day compared to men who made purchases around 7pm mostly
 
