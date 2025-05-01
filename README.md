@@ -33,9 +33,9 @@ RECOMMENDATIONS
 
 2)The sales operations manager should ensure there should be reliable availability of ATM machines of various banking systems to avoid unhealthy queue and loss of customers to their customers.
 
-3) The store inventory keeper should ensure always that there is availability of food and beverage in stock to replenish when exhausted. This will boost sales and revenue growth
+3)The store inventory keeper should ensure always that there is availability of food and beverage in stock to replenish when exhausted. This will boost sales and revenue growth
 
-4) Health and beauty items are often expensive. There should be a price reduction on this item to foster sales, increase profitability in that sector thereby making the store competitive among it's colleagues.
+4)Health and beauty items are often expensive. There should be a price reduction on this item to foster sales, increase profitability in that sector thereby making the store competitive among it's colleagues.
 
 5)Since there is an influx of customers by 7pm,offer promotions for morning, afternoon and evening purchases. Also target leverage on discount sales on products at specific times of the day. This will attract customers for all times of the days thereby increasing sales.
 
