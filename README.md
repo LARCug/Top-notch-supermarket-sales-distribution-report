@@ -29,7 +29,7 @@ KEY OBSERVATIONS
 
 RECOMMENDATIONS
 
-1) To build excellent customer service relationship,I recommend loyalty programs are implemented especially for women who patronise the store more. This inturn will increase customer retention and loyalty and attract more men to come shopping thereby increasing gratitude influx of customers from bothe genders
+1)To build excellent customer service relationship,I recommend loyalty programs are implemented especially for women who patronise the store more. This inturn will increase customer retention and loyalty and attract more men to come shopping thereby increasing gratitude influx of customers from bothe genders
 
 2)The sales operations manager should ensure there should be reliable availability of ATM machines of various banking systems to avoid unhealthy queue and loss of customers to their customers.
 
