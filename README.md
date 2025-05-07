@@ -17,15 +17,38 @@ To devise strategies to drive sales and revenue growth
 
 KEY OBSERVATIONS
 
-1)The food and beverage product item were generated the most revenue especially in the Naypyitaw city and was mostly purchased by women at 7pm of the day while the health and beauty item were least sold generally but made highest sales in the Mandalay city with men mostly purchasing this item by 2pm
+Top performing and best selling product
 
-2)Their customers were mostly women who made peak purchases around 1pm and 7pm of the day compared to men who made purchases around 7pm mostly
+![image](https://github.com/user-attachments/assets/bd21c4f0-bd41-4a1a-b79c-b6b2fd2a7552)
 
-3)The best channel for making payments for all purchases was the cash medium which was mostly used in the morning hours by 10 and 11am by women especially while credit cards were least used generally but mostly used by men in the late hours of the especially at 7pm
+The food and beverage product item were generated the most revenue especially in the Naypyitaw city and was mostly purchased by women at 7pm of the day while the health and beauty item were least sold generally but made highest sales in the Mandalay city with men mostly purchasing this item by 2pm.
 
-4)The generated their peak sales mostly on 7pm seconded by 1pm while the least sales was made by 5pm.
+Most purchasing gender
 
-5)All 3 cities performed averagely well with the exception of Naypyitaw making a slight increase in sales of 34% while the other made 33% each
+![image](https://github.com/user-attachments/assets/a74a0662-cc95-416c-90ef-9d295de9f5e9)
+
+Their customers were mostly women who made peak purchases around 1pm and 7pm of the day compared to men who made purchases around 7pm mostly
+
+Most used payment channel
+
+![image](https://github.com/user-attachments/assets/33a84c30-8cd0-405f-93e3-b103540afe4f)
+
+
+The best channel for making payments for all purchases was the cash medium which was mostly used in the morning hours by 10 and 11am by women especially while credit cards were least used generally but mostly used by men in the late hours of the especially at 7pm
+
+Sales trend across time
+
+![image](https://github.com/user-attachments/assets/193a5c43-8d10-47a6-80d5-bc5ad9a0edac)
+
+
+The generated their peak sales mostly on 7pm seconded by 1pm while the least sales was made by 5pm.
+
+Top performing city
+
+![image](https://github.com/user-attachments/assets/0ede5682-5c5c-4610-8042-528794ea3478)
+
+
+All 3 cities performed averagely well with the exception of Naypyitaw making a slight increase in sales of 34% while the other made 33% each
 
 RECOMMENDATIONS
 
